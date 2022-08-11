@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	min-height: 100vh;
+	background: url('../assets/tiranga.jpg');
+	background-repeat: no-repeat;
+	background-position: center;	
+	background-size: cover;
+}
+#tiranga h1{
+	font-size: 35px;
+	font-family: 'Caveat', cursive;
+	text-shadow: 1px 2px black;
+	letter-spacing: 2px;
+	font-weight: 700;
+}
+#tiranga h2{
+	font-size: 16px;
+	font-family: 'Caveat', cursive;
+	/*text-shadow: 1px 1px orange;*/
+	letter-spacing: 2px;
+	word-spacing: 5px;
+	color: #5f5656;
+	font-weight: 700;
+}
+#tiranga .orange{
+	color: #e83302;
+}
+#tiranga .green{
+	color: #054a23;
+}
+#tiranga .black{
+	color: #000;
+}
+#cont h4{
+	color: #ffc107;
+}
+#btn a{
+	margin-top: 101px;
+}
+#logo{
+	margin-top: 35px;
+}
+#logo img{
+	width: 100px;
+}
+
+
